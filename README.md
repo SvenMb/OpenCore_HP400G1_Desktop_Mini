@@ -22,6 +22,8 @@ details:
 | Sound               | Realtek ALC221                      |
 | Ethernet		        | Intel  i217LM-GbE-LOM            		|
 
+![Desktop](Doc/desktop.png)
+
 not tested:
 * VGA out
 * m2 slots
