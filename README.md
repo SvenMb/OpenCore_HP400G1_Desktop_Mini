@@ -33,7 +33,7 @@ not tested:
 - use this EFI-folder on that usb stick
 - create macserials (see dortania guide) and add them to config.plist
 - UEFI-start that usb-stick via boot manager
-- erase interal disk via disk utilities
+- erase target disk via disk utilities
 - install MacOS (needs network attached)
 - wait, it needs some restarts before ready
 - **ready!**
