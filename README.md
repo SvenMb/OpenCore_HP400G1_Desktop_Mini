@@ -28,6 +28,10 @@ not tested:
 * VGA out
 * m2 slots
 
+Screen resolution problem:
+* Dell 2405 works with 1920x1200 (and also with lower resolutions)
+* AOC Q3279VWF only works with 1080p (monitor has 2560x1440), currently no idea why 
+
 ### First-time installation
 - follow [dortania guide](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/winblows-install.html#downloading-macos) to create macrecovery usb stick 
 - use this EFI-folder on that usb stick
